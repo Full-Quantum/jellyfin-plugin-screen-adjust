@@ -13,6 +13,14 @@ A Jellyfin Web plugin that lets each user adjust the **playback region (size and
 
 > Works in **Jellyfin Web** (browsers, and wrappers that load Jellyfin Web). It does not change native Jellyfin clients.
 
+## Screenshots
+
+The first screenshot shows where to open Screen Adjust from the playback settings cog. The second shows the adjustment dialog and its preset, sizing, positioning, and border controls.
+
+![Open Screen Adjust from the Jellyfin player settings menu](docs/images/screen-adjust-menu.png)
+
+![Screen Adjust playback-region adjustment dialog](docs/images/screen-adjust-controls.png)
+
 ## Prerequisites
 
 | Requirement | Notes |
