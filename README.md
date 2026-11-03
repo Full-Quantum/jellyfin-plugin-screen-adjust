@@ -21,6 +21,12 @@ The first screenshot shows where to open Screen Adjust from the playback setting
 
 ![Screen Adjust playback-region adjustment dialog](docs/images/screen-adjust-controls.png)
 
+### Why Screen Adjust exists
+
+Some CRT televisions have no geometry controls, or their adjustments cannot fully compensate for overscan or underscan. This illustration shows how Screen Adjust can shrink the playback region to better fit the visible screen; presets make those adjustments easy to reuse.
+
+![Why Jellyfin Screen Adjust exists: illustration of CRT overscan and a smaller adjusted playback region](docs/images/why-screen-adjust-exists.png)
+
 ## Prerequisites
 
 | Requirement | Notes |
