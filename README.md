@@ -17,7 +17,7 @@ A Jellyfin Web plugin that lets each user adjust the **playback region (size and
 
 Some CRT televisions have no geometry controls, or their adjustments cannot fully compensate for overscan or underscan. This illustration shows how Screen Adjust can shrink the playback region to better fit the visible screen; presets make those adjustments easy to reuse.
 
-![Why Jellyfin Screen Adjust exists: illustration of CRT overscan and a smaller adjusted playback region](docs/images/why-screen-adjust-exists.png)
+![Why Jellyfin Screen Adjust exists: illustration of CRT overscan and a smaller adjusted playback region](docs/images/why-screen-adjust-exists-v2.png)
 
 ## Screenshots
 
